@@ -9,6 +9,6 @@ title: Gideon
     <p>Read through all of my guides and thoughts below:</p>
   </div>
   <div style="flex-shrink: 0;">
-    <img src="profile.jpg" alt="Gideon" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
+    <img src="profile-fip.jpg" alt="Gideon" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
   </div>
 </div>
